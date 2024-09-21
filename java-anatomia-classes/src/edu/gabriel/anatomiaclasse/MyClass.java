@@ -1,7 +1,7 @@
 package edu.gabriel.anatomiaclasse;
 public class MyClass {
     public static void main(String[] args) {
-        //Usin types
+        //Using types
         // String myName = "Gabriel Muniz";
         // int age = 26;
         // double height = 1.80;
